@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Techlady29
+- 👋 Hi, I’m Triumph Nwabuko
 - 👀 I’m interested in building applications that solve problems.
 - 🌱 I’m currently learning Software Development at ALX
 - 💞️ I’m looking to collaborate on new projects.
